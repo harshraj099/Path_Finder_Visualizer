@@ -289,7 +289,6 @@ export default class PathFinding extends Component {
             );
           })}
         </div>
-        <Footer />
       </>
     );
   }
